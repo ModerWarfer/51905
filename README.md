@@ -4,13 +4,17 @@
 
 # pasos 
 1. Clonar el repositorio
+   
 git clone https://github.com/ModerWarfer/51905.git
+
 cd 51905
 
-2. Instalar dependencias
+3. Instalar dependencias
+   
 npm install
 
-3. Ejecutar el analizador
+5. Ejecutar el analizador
+
 npm start
 
 #Contenido del proyecto
