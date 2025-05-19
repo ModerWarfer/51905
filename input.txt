@@ -1,0 +1,4 @@
+do {
+    puts("Hola, mundoo!");
+    J while (1);
+} 

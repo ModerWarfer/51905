@@ -1,0 +1,4 @@
+do {
+    puts(Hola, mundo!); // ❌ Falta comillas en la cadena
+    J while (1);
+}

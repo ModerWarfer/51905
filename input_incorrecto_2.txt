@@ -1,0 +1,4 @@
+do {
+    puts("Este código tiene un error");
+    J while (); // ❌ Condición vacía, debe ser 0 o 1
+}

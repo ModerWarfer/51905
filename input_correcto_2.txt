@@ -1,0 +1,5 @@
+do {
+    puts("Este es un código válido");
+    puts("Otra línea de salida");
+    J while (0);
+}
