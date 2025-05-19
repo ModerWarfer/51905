@@ -9,11 +9,11 @@ git clone https://github.com/ModerWarfer/51905.git
 
 cd 51905
 
-3. Instalar dependencias
+2. Instalar dependencias
    
 npm install
 
-5. Ejecutar el analizador
+3. Ejecutar el analizador
 
 npm start
 
